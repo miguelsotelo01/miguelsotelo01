@@ -29,5 +29,5 @@ results oriented. In the continuous search for opportunities for professional gr
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ---
-
+### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=transparent)
