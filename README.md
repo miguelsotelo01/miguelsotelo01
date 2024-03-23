@@ -7,6 +7,8 @@
 As a frontend development enthusiast with a strong background in Fullstack programming and specializing in frontend development, 
 I am deeply passionate about learning and applying new technologies to create innovative solutions. I am a communicative, collaborative and
 results oriented. In the continuous search for opportunities for professional growth.
-:books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+
+🤔 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=transparent)
