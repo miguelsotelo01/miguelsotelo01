@@ -37,7 +37,7 @@ results oriented. In the continuous search for opportunities for professional gr
 
 You can e-mail me directly, get in touch through the account(s) below!
 
-[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-a-sotelo/)
+[![Linkedin Badge](https://img.shields.io/badge/miguel-a-sotelo-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-a-sotelo/)
 
 <div align="center">
 
