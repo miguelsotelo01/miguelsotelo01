@@ -6,7 +6,7 @@
 
 ---
 
-As a frontend development enthusiast with a strong background in Fullstack programming and specializing in frontend development, 
+As a development enthusiast with a strong background in Fullstack programming and specializing in frontend development, 
 I am deeply passionate about learning and applying new technologies to create innovative solutions. I am a communicative, collaborative and
 results oriented. In the continuous search for opportunities for professional growth.
 
@@ -33,14 +33,3 @@ results oriented. In the continuous search for opportunities for professional gr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=transparent)
 
  ---
- ## - 📫 How to reach me
-
-You can e-mail me directly, get in touch through the account(s) below!
-
-<a href="https://www.linkedin.com/in/miguel-a-sotelo/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/linkedin/linkedin-horizontal.svg"></a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
