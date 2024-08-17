@@ -1,9 +1,6 @@
 ### Hi, I'm Miguel 👋💻😄
 ---
-<p align="center">
-  ![Imagen](https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png?alt=media&token=a65cb4e9-d9e9-44cc-91c1-74fd57b6f18c)
-</p>
-
+ <img src="https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png?alt=media&token=a65cb4e9-d9e9-44cc-91c1-74fd57b6f18c">
 ---
 
 As a development enthusiast with a strong background in Fullstack programming and specializing in frontend development, 
