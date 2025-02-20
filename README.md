@@ -2,7 +2,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  <img src="https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/imagenes%2FBanner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png?alt=media&token=8b86b1c5-419f-4cef-95ce-34b0ccee0c38">
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 I am a second-year Information Systems Engineering student at the National Technological University, Tucumán Regional Faculty. Since my school days, I have always been passionate about the world of computing, which led me to pursue studies in the IT field. I am particularly interested in focusing on web development.
 
 My personal traits include being proactive and possessing leadership skills that enable me to work effectively both in teams and groups. I am an effective communicator and a committed self-learner, always seeking new opportunities to learn and grow.
