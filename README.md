@@ -32,5 +32,6 @@ My personal traits include being proactive and possessing leadership skills that
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=transparent)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### my Portfolio
-[![Portfolio](https://img.shields.io/badge/Portafolio-Ver_Proyecto-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://tu-portfolio.com](https://portfoliomiguelsotelo.netlify.app))
+### 🚀 Conect whit me
+- 🌐 **Portfolio:** [Miguel A. sotelo](https://portfoliomiguelsotelo.netlify.app)
+- 💼 **LinkedIn:** [linkedin.com/in/usuario](https://www.linkedin.com/in/miguel-a-sotelo/)
