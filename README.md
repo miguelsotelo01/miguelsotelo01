@@ -1,6 +1,6 @@
 ### Hi, I'm Miguel 👋💻😄
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- <img src="https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/imagenes%2FBanner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png?alt=media&token=8b86b1c5-419f-4cef-95ce-34b0ccee0c38">
+ <img src="https://private-user-images.githubusercontent.com/93306022/539311946-c9906097-30a2-4835-9b8b-0abb6fa6fc0f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkxMDQ1OTUsIm5iZiI6MTc2OTEwNDI5NSwicGF0aCI6Ii85MzMwNjAyMi81MzkzMTE5NDYtYzk5MDYwOTctMzBhMi00ODM1LTliOGItMGFiYjZmYTZmYzBmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIyVDE3NTEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkZjI3NDdiYzFkMzkwNjI3YzJjYTkxZmU4MDZlYmQxZDViYWU4N2EwODc3N2NjNGQwZjE5N2MyMWM2Y2Y4M2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qcoQIbOFLVzYJn2kXFelQpCyEPU6OCpjmB1dNtwat9E">
 
 I am a student of  Information Systems Engineering student at the National Technological University, Tucumán Regional Faculty. Since my school days, I have always been passionate about the world of computing, which led me to pursue studies in the IT field. I am particularly interested in focusing on web development.
 
