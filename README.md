@@ -1,6 +1,6 @@
 ### Hi, I'm Miguel 👋💻😄
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://github.com/user-attachments/assets/c9906097-30a2-4835-9b8b-0abb6fa6fc0f" alt="Banner de Perfil" width="100%">
+<img src="Portada Perfil.png" alt="Banner de Perfil" width="100%">
 I am a student of  Information Systems Engineering student at the National Technological University, Tucumán Regional Faculty. Since my school days, I have always been passionate about the world of computing, which led me to pursue studies in the IT field. I am particularly interested in focusing on web development.
 
 My personal traits include being proactive and possessing leadership skills that enable me to work effectively both in teams and groups. I am an effective communicator and a committed self-learner, always seeking new opportunities to learn and grow.
