@@ -31,5 +31,5 @@ My personal traits include being proactive and possessing leadership skills that
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -->
 ### 🚀 Conect whit me
-- 🌐 **Portfolio:** [Miguel A. sotelo](https://portfoliomiguelsotelo.netlify.app)
+- 🌐 **Portfolio:** [Miguel A. sotelo](https://portfolio-miguel-sotelo.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/usuario](https://www.linkedin.com/in/miguel-a-sotelo/)
