@@ -25,10 +25,11 @@ My personal traits include being proactive and possessing leadership skills that
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Stats
+<!--### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=transparent)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 ### 🚀 Conect whit me
 - 🌐 **Portfolio:** [Miguel A. sotelo](https://portfoliomiguelsotelo.netlify.app)
 - 💼 **LinkedIn:** [linkedin.com/in/usuario](https://www.linkedin.com/in/miguel-a-sotelo/)
