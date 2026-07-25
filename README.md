@@ -40,11 +40,11 @@ I specialize in **Web Development**, focusing on building scalable and responsiv
 
 ### 💻 Featured Projects
 ---
-* **[Fitness Center Portal]()**: A full-stack web application designed to streamline gym membership management and administrative operations. Built robustly with a decoupled architecture using Angular for a dynamic user interface and Node.js for the backend.
+* **[Fitness Center Portal](https://github.com/miguelsotelo01/fitness-center-portal.git)**: A full-stack web application designed to streamline gym membership management and administrative operations. Built robustly with a decoupled architecture using Angular for a dynamic user interface and Node.js for the backend.
   * **Tech:** Angular, Node.js.
-* **[Academic Tracker PWA]()**: A Progressive Web App (PWA) tailored to help university students comprehensively manage their academic journey. It features an intuitive dashboard to track subjects, organize final exam calendars, and efficiently filter courses by academic year.
+* **[Academic Tracker PWA](https://github.com/miguelsotelo01/academic-tracker-pwa.git)**: A Progressive Web App (PWA) tailored to help university students comprehensively manage their academic journey. It features an intuitive dashboard to track subjects, organize final exam calendars, and efficiently filter courses by academic year.
   * **Tech:** React, Node.js, MySQL
-* **[Portfolio-Miguel-Sotelo](https://portfolio-miguel-sotelo.vercel.app)**: Mi portafolio web personal, enfocado en UI/UX y rendimiento.
+* **[Portfolio-Miguel-Sotelo](https://portfolio-miguel-sotelo.vercel.app)**: My Persona Portfolio
 
 ### 📊 GitHub Dashboard
 ---
