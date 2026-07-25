@@ -6,6 +6,12 @@ I am an Information Systems Engineering student at the National Technological Un
 
 I specialize in **Web Development**, focusing on building scalable and responsive applications. My personal traits include being proactive and possessing strong leadership skills that enable me to work effectively within a team. I am an effective communicator, a committed self-learner, and I am always exploring new architectures and technologies to improve my workflow.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/SPANISH-NATIVE-3b71db?labelColor=0a1526&style=for-the-badge" alt="Spanish Native">
+  <img src="https://img.shields.io/badge/ENGLISH-A2-1a2b4c?labelColor=0a1526&style=for-the-badge" alt="English">
+  <img src="https://img.shields.io/badge/JAPANESE-N5-bc002d?labelColor=0a1526&style=for-the-badge" alt="Japanese">
+</div>
+
 ### 🤔 Currently Learning & Exploring
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -34,20 +40,28 @@ I specialize in **Web Development**, focusing on building scalable and responsiv
 
 ### 💻 Featured Projects
 ---
-* **[Academic Tracker](https://github.com/miguelsotelo01/academic-tracker-pwa.git)**: Progressive Web App (PWA) tailored to help university students comprehensively manage their academic journey. It features an intuitive dashboard to track subjects, organize final exam calendars, and efficiently filter courses by academic year (1st to 5th) while maintaining visual consistency across all UI components.
-* **[Fitness center portal](https://github.com/miguelsotelo01/fitness-center-portal.git)**: A full-stack web application designed to streamline gym membership management and administrative operations. Built robustly with a decoupled architecture using Angular for a dynamic user interface and Node.js for the backend.
-* **[Portfolio-Miguel-Sotelo](https://portfolio-miguel-sotelo.vercel.app)**: My web portfolio.
+* **[Fitness Center Portal]()**: A full-stack web application designed to streamline gym membership management and administrative operations. Built robustly with a decoupled architecture using Angular for a dynamic user interface and Node.js for the backend.
+  * **Tech:** Angular, Node.js.
+* **[Academic Tracker PWA]()**: A Progressive Web App (PWA) tailored to help university students comprehensively manage their academic journey. It features an intuitive dashboard to track subjects, organize final exam calendars, and efficiently filter courses by academic year.
+  * **Tech:** React, Node.js, MySQL
+* **[Portfolio-Miguel-Sotelo](https://portfolio-miguel-sotelo.vercel.app)**: Mi portafolio web personal, enfocado en UI/UX y rendimiento.
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Dashboard
 ---
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=miguelsotelo01&theme=radical&hide_border=true" alt="GitHub Streak de Miguel" />
+  <!-- Tarjetas de Stats y Lenguajes lado a lado 
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelsotelo01&show_icons=true&theme=radium&hide_border=true" height="195" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsotelo01&layout=compact&theme=radium&hide_border=true" height="195" alt="Lenguajes más usados" />
+</div>-->
+<br>
+<div align="center">
+  <!-- Gráfico de Racha (Streak) debajo -->
+  <img src="https://streak-stats.demolab.com/?user=miguelsotelo01&theme=radium&hide_border=true" alt="GitHub Streak de Miguel" />
 </div>
 
-### ⚡ Recent Activity
+### ⚡ Actividad Reciente en GitHub
 ---
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/miguelsotelo01/mi-cheat-sheet-engineering/issues/1) in [miguelsotelo01/mi-cheat-sheet-engineering](https://github.com/miguelsotelo01/mi-cheat-sheet-engineering)
 <!--END_SECTION:activity-->
 
 ### 🚀 Connect With Me
