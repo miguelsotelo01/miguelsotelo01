@@ -1,6 +1,6 @@
 ### Hi, I'm Miguel 👋💻😄
 ---
-<img src="Portada Perfil de Linkedin Profesional Moderno Oscuro.png" alt="Banner de Perfil" width="100%">
+<img src="Portada2.png" alt="Banner de Perfil" width="100%">
 
 I am an Information Systems Engineering student at the National Technological University (UTN), Tucumán Regional Faculty. Since my school days, I have been deeply passionate about computing, which naturally led me to pursue a career in IT. 
 
