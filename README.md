@@ -62,7 +62,7 @@ I specialize in **Software Development**, focusing on building scalable and resp
 ### ⚡ Actividad Reciente en GitHub
 ---
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/miguelsotelo01/mi-cheat-sheet-engineering/issues/1) in [miguelsotelo01/mi-cheat-sheet-engineering](https://github.com/miguelsotelo01/mi-cheat-sheet-engineering)
+1. 🔒 Closed issue [#1](https://github.com/miguelsotelo01/miguelsotelo01/issues/1) in [miguelsotelo01/miguelsotelo01](https://github.com/miguelsotelo01/miguelsotelo01)
 <!--END_SECTION:activity-->
 
 ### 🚀 Connect With Me
