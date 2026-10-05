@@ -4,7 +4,7 @@
 
 I am an Information Systems Engineering student at the National Technological University (UTN), Tucumán Regional Faculty. Since my school days, I have been deeply passionate about computing, which naturally led me to pursue a career in IT. 
 
-I specialize in **Softwarw Development**, focusing on building scalable and responsive applications. My personal traits include being proactive and possessing strong leadership skills that enable me to work effectively within a team. I am an effective communicator, a committed self-learner, and I am always exploring new architectures and technologies to improve my workflow.
+I specialize in **Software Development**, focusing on building scalable and responsive applications. My personal traits include being proactive and possessing strong leadership skills that enable me to work effectively within a team. I am an effective communicator, a committed self-learner, and I am always exploring new architectures and technologies to improve my workflow.
 
 <div align="center">
   <img src="https://img.shields.io/badge/SPANISH-NATIVE-3b71db?labelColor=0a1526&style=for-the-badge" alt="Spanish Native">
